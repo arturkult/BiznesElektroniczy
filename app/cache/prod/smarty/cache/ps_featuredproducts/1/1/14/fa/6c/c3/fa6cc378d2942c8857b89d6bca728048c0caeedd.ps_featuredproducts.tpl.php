@@ -8,32 +8,26 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       1 => 1503921076,
       2 => 'module',
     ),
-    'aa1f806c205d3b64cd3f5b22d2c368ea8c54ea4b' => 
+    '1a9466c7afa2d6e509fa7c863c90a31edcba5408' => 
     array (
-      0 => 'C:\\xampp\\htdocs\\ksiegarnia\\themes\\classic\\templates\\catalog\\_partials\\miniatures\\product.tpl',
-      1 => 1503921076,
+      0 => 'D:\\xampp\\htdocs\\ksiegarnia\\themes\\classic\\templates\\catalog\\_partials\\miniatures\\product.tpl',
+      1 => 1509797094,
       2 => 'file',
     ),
-    '791df2df0ded7a6df2f09b4fa1d2aa8855460709' => 
+    '7d0c15a1516abaaa9f2357aaf5ec440e7a006bd2' => 
     array (
-      0 => 'C:\\xampp\\htdocs\\ksiegarnia\\themes\\classic\\templates\\catalog\\_partials\\variant-links.tpl',
-      1 => 1503921076,
+      0 => 'D:\\xampp\\htdocs\\ksiegarnia\\themes\\classic\\templates\\catalog\\_partials\\variant-links.tpl',
+      1 => 1509797094,
       2 => 'file',
     ),
   ),
   'nocache_hash' => '126871620059fd6ebb28b686-42930392',
-  'variables' => 
-  array (
-    'products' => 0,
-    'product' => 0,
-    'allProductsLink' => 0,
-  ),
-  'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_59fd6ebb4dfa79_20964726',
+  'unifunc' => 'content_59fe0b83758e19_26546010',
+  'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_59fd6ebb4dfa79_20964726')) {function content_59fd6ebb4dfa79_20964726($_smarty_tpl) {?><section class="featured-products clearfix">
+<?php if ($_valid && !is_callable('content_59fe0b83758e19_26546010')) {function content_59fe0b83758e19_26546010($_smarty_tpl) {?><section class="featured-products clearfix">
   <h1 class="h1 products-section-title text-uppercase">
     Popularne produkty
   </h1>
