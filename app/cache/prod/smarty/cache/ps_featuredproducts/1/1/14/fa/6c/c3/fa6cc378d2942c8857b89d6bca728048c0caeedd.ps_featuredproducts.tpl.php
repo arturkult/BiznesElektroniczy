@@ -23,20 +23,20 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '126871620059fd6ebb28b686-42930392',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_59fe0b83758e19_26546010',
+  'unifunc' => 'content_59fef778536577_42054868',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_59fe0b83758e19_26546010')) {function content_59fe0b83758e19_26546010($_smarty_tpl) {?><section class="featured-products clearfix">
+<?php if ($_valid && !is_callable('content_59fef778536577_42054868')) {function content_59fef778536577_42054868($_smarty_tpl) {?><section class="featured-products clearfix">
   <h1 class="h1 products-section-title text-uppercase">
     Popularne produkty
   </h1>
   <div class="products">
           
-  <article class="product-miniature js-product-miniature" data-id-product="1" data-id-product-attribute="1" itemscope itemtype="http://schema.org/Product">
+  <article class="product-miniature js-product-miniature" data-id-product="1" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
     <div class="thumbnail-container">
       
-        <a href="http://localhost/ksiegarnia/tshirts/1-1-faded-short-sleeve-tshirts.html#/1-rozmiar-s/13-kolor-pomaranczowy" class="thumbnail product-thumbnail">
+        <a href="http://localhost/ksiegarnia/biologia/1-faded-short-sleeve-tshirts.html" class="thumbnail product-thumbnail">
           <img
             src = "http://localhost/ksiegarnia/1-home_default/faded-short-sleeve-tshirts.jpg"
             alt = "Faded Short Sleeve T-shirts"
@@ -47,7 +47,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 
       <div class="product-description">
         
-          <h1 class="h3 product-title" itemprop="name"><a href="http://localhost/ksiegarnia/tshirts/1-1-faded-short-sleeve-tshirts.html#/1-rozmiar-s/13-kolor-pomaranczowy">Faded Short Sleeve T-shirts</a></h1>
+          <h1 class="h3 product-title" itemprop="name"><a href="http://localhost/ksiegarnia/biologia/1-faded-short-sleeve-tshirts.html">Faded Short Sleeve T-shirts</a></h1>
         
 
         
@@ -75,7 +75,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
                   </ul>
       
 
-      <div class="highlighted-informations hidden-sm-down">
+      <div class="highlighted-informations no-variants hidden-sm-down">
         
           <a class="quick-view" href="#" data-link-action="quickview">
             <i class="material-icons search">&#xE8B6;</i> Szybki podgląd
@@ -83,19 +83,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
         
 
         
-                      <div class="variant-links">
-      <a href="http://localhost/ksiegarnia/tshirts/1-1-faded-short-sleeve-tshirts.html#/1-rozmiar-s/13-kolor-pomaranczowy"
-       class="color"
-       title="Pomarańczowy"
-       
-       style="background-color: #F39C11"           ><span class="sr-only">Pomarańczowy</span></a>
-      <a href="http://localhost/ksiegarnia/tshirts/1-2-faded-short-sleeve-tshirts.html#/1-rozmiar-s/14-kolor-niebieski"
-       class="color"
-       title="Niebieski"
-       
-       style="background-color: #5D9CEC"           ><span class="sr-only">Niebieski</span></a>
-    <span class="js-count count"></span>
-</div>
                   
       </div>
 
@@ -104,10 +91,10 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 
 
           
-  <article class="product-miniature js-product-miniature" data-id-product="2" data-id-product-attribute="7" itemscope itemtype="http://schema.org/Product">
+  <article class="product-miniature js-product-miniature" data-id-product="2" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
     <div class="thumbnail-container">
       
-        <a href="http://localhost/ksiegarnia/blouses/2-7-blouse.html#/1-rozmiar-s/11-kolor-czarny" class="thumbnail product-thumbnail">
+        <a href="http://localhost/ksiegarnia/matematyka/2-blouse.html" class="thumbnail product-thumbnail">
           <img
             src = "http://localhost/ksiegarnia/7-home_default/blouse.jpg"
             alt = "Blouse"
@@ -118,7 +105,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 
       <div class="product-description">
         
-          <h1 class="h3 product-title" itemprop="name"><a href="http://localhost/ksiegarnia/blouses/2-7-blouse.html#/1-rozmiar-s/11-kolor-czarny">Blouse</a></h1>
+          <h1 class="h3 product-title" itemprop="name"><a href="http://localhost/ksiegarnia/matematyka/2-blouse.html">Blouse</a></h1>
         
 
         
@@ -146,7 +133,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
                   </ul>
       
 
-      <div class="highlighted-informations hidden-sm-down">
+      <div class="highlighted-informations no-variants hidden-sm-down">
         
           <a class="quick-view" href="#" data-link-action="quickview">
             <i class="material-icons search">&#xE8B6;</i> Szybki podgląd
@@ -154,19 +141,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
         
 
         
-                      <div class="variant-links">
-      <a href="http://localhost/ksiegarnia/blouses/2-8-blouse.html#/1-rozmiar-s/8-kolor-bialy"
-       class="color"
-       title="Biały"
-       
-       style="background-color: #ffffff"           ><span class="sr-only">Biały</span></a>
-      <a href="http://localhost/ksiegarnia/blouses/2-7-blouse.html#/1-rozmiar-s/11-kolor-czarny"
-       class="color"
-       title="czarny"
-       
-       style="background-color: #434A54"           ><span class="sr-only">czarny</span></a>
-    <span class="js-count count"></span>
-</div>
                   
       </div>
 
@@ -175,10 +149,10 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 
 
           
-  <article class="product-miniature js-product-miniature" data-id-product="3" data-id-product-attribute="13" itemscope itemtype="http://schema.org/Product">
+  <article class="product-miniature js-product-miniature" data-id-product="3" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
     <div class="thumbnail-container">
       
-        <a href="http://localhost/ksiegarnia/casual-dresses/3-13-printed-dress.html#/1-rozmiar-s/13-kolor-pomaranczowy" class="thumbnail product-thumbnail">
+        <a href="http://localhost/ksiegarnia/fantastyka/3-printed-dress.html" class="thumbnail product-thumbnail">
           <img
             src = "http://localhost/ksiegarnia/8-home_default/printed-dress.jpg"
             alt = "Printed Dress"
@@ -189,7 +163,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 
       <div class="product-description">
         
-          <h1 class="h3 product-title" itemprop="name"><a href="http://localhost/ksiegarnia/casual-dresses/3-13-printed-dress.html#/1-rozmiar-s/13-kolor-pomaranczowy">Printed Dress</a></h1>
+          <h1 class="h3 product-title" itemprop="name"><a href="http://localhost/ksiegarnia/fantastyka/3-printed-dress.html">Printed Dress</a></h1>
         
 
         
@@ -217,7 +191,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
                   </ul>
       
 
-      <div class="highlighted-informations hidden-sm-down">
+      <div class="highlighted-informations no-variants hidden-sm-down">
         
           <a class="quick-view" href="#" data-link-action="quickview">
             <i class="material-icons search">&#xE8B6;</i> Szybki podgląd
@@ -225,14 +199,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
         
 
         
-                      <div class="variant-links">
-      <a href="http://localhost/ksiegarnia/casual-dresses/3-13-printed-dress.html#/1-rozmiar-s/13-kolor-pomaranczowy"
-       class="color"
-       title="Pomarańczowy"
-       
-       style="background-color: #F39C11"           ><span class="sr-only">Pomarańczowy</span></a>
-    <span class="js-count count"></span>
-</div>
                   
       </div>
 
@@ -241,10 +207,10 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 
 
           
-  <article class="product-miniature js-product-miniature" data-id-product="4" data-id-product-attribute="16" itemscope itemtype="http://schema.org/Product">
+  <article class="product-miniature js-product-miniature" data-id-product="4" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
     <div class="thumbnail-container">
       
-        <a href="http://localhost/ksiegarnia/evening-dresses/4-16-printed-dress.html#/1-rozmiar-s/7-kolor-bezowy" class="thumbnail product-thumbnail">
+        <a href="http://localhost/ksiegarnia/kryminal/4-printed-dress.html" class="thumbnail product-thumbnail">
           <img
             src = "http://localhost/ksiegarnia/10-home_default/printed-dress.jpg"
             alt = "Printed Dress"
@@ -255,7 +221,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 
       <div class="product-description">
         
-          <h1 class="h3 product-title" itemprop="name"><a href="http://localhost/ksiegarnia/evening-dresses/4-16-printed-dress.html#/1-rozmiar-s/7-kolor-bezowy">Printed Dress</a></h1>
+          <h1 class="h3 product-title" itemprop="name"><a href="http://localhost/ksiegarnia/kryminal/4-printed-dress.html">Printed Dress</a></h1>
         
 
         
@@ -283,7 +249,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
                   </ul>
       
 
-      <div class="highlighted-informations hidden-sm-down">
+      <div class="highlighted-informations no-variants hidden-sm-down">
         
           <a class="quick-view" href="#" data-link-action="quickview">
             <i class="material-icons search">&#xE8B6;</i> Szybki podgląd
@@ -291,19 +257,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
         
 
         
-                      <div class="variant-links">
-      <a href="http://localhost/ksiegarnia/evening-dresses/4-16-printed-dress.html#/1-rozmiar-s/7-kolor-bezowy"
-       class="color"
-       title="Beżowy"
-       
-       style="background-color: #f5f5dc"           ><span class="sr-only">Beżowy</span></a>
-      <a href="http://localhost/ksiegarnia/evening-dresses/4-43-printed-dress.html#/1-rozmiar-s/24-kolor-rozowy"
-       class="color"
-       title="Różowy"
-       
-       style="background-color: #FCCACD"           ><span class="sr-only">Różowy</span></a>
-    <span class="js-count count"></span>
-</div>
                   
       </div>
 
@@ -312,10 +265,10 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 
 
           
-  <article class="product-miniature js-product-miniature" data-id-product="5" data-id-product-attribute="19" itemscope itemtype="http://schema.org/Product">
+  <article class="product-miniature js-product-miniature" data-id-product="5" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
     <div class="thumbnail-container">
       
-        <a href="http://localhost/ksiegarnia/summer-dresses/5-19-printed-summer-dress.html#/1-rozmiar-s/16-kolor-zolty" class="thumbnail product-thumbnail">
+        <a href="http://localhost/ksiegarnia/komiks/5-printed-summer-dress.html" class="thumbnail product-thumbnail">
           <img
             src = "http://localhost/ksiegarnia/12-home_default/printed-summer-dress.jpg"
             alt = "Printed Summer Dress"
@@ -326,7 +279,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 
       <div class="product-description">
         
-          <h1 class="h3 product-title" itemprop="name"><a href="http://localhost/ksiegarnia/summer-dresses/5-19-printed-summer-dress.html#/1-rozmiar-s/16-kolor-zolty">Printed Summer Dress</a></h1>
+          <h1 class="h3 product-title" itemprop="name"><a href="http://localhost/ksiegarnia/komiks/5-printed-summer-dress.html">Printed Summer Dress</a></h1>
         
 
         
@@ -360,7 +313,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
                   </ul>
       
 
-      <div class="highlighted-informations hidden-sm-down">
+      <div class="highlighted-informations no-variants hidden-sm-down">
         
           <a class="quick-view" href="#" data-link-action="quickview">
             <i class="material-icons search">&#xE8B6;</i> Szybki podgląd
@@ -368,29 +321,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
         
 
         
-                      <div class="variant-links">
-      <a href="http://localhost/ksiegarnia/summer-dresses/5-22-printed-summer-dress.html#/1-rozmiar-s/11-kolor-czarny"
-       class="color"
-       title="czarny"
-       
-       style="background-color: #434A54"           ><span class="sr-only">czarny</span></a>
-      <a href="http://localhost/ksiegarnia/summer-dresses/5-21-printed-summer-dress.html#/1-rozmiar-s/13-kolor-pomaranczowy"
-       class="color"
-       title="Pomarańczowy"
-       
-       style="background-color: #F39C11"           ><span class="sr-only">Pomarańczowy</span></a>
-      <a href="http://localhost/ksiegarnia/summer-dresses/5-20-printed-summer-dress.html#/1-rozmiar-s/14-kolor-niebieski"
-       class="color"
-       title="Niebieski"
-       
-       style="background-color: #5D9CEC"           ><span class="sr-only">Niebieski</span></a>
-      <a href="http://localhost/ksiegarnia/summer-dresses/5-19-printed-summer-dress.html#/1-rozmiar-s/16-kolor-zolty"
-       class="color"
-       title="Żółty"
-       
-       style="background-color: #F1C40F"           ><span class="sr-only">Żółty</span></a>
-    <span class="js-count count"></span>
-</div>
                   
       </div>
 
@@ -399,10 +329,10 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 
 
           
-  <article class="product-miniature js-product-miniature" data-id-product="6" data-id-product-attribute="31" itemscope itemtype="http://schema.org/Product">
+  <article class="product-miniature js-product-miniature" data-id-product="6" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
     <div class="thumbnail-container">
       
-        <a href="http://localhost/ksiegarnia/summer-dresses/6-31-printed-summer-dress.html#/1-rozmiar-s/16-kolor-zolty" class="thumbnail product-thumbnail">
+        <a href="http://localhost/ksiegarnia/komiks/6-printed-summer-dress.html" class="thumbnail product-thumbnail">
           <img
             src = "http://localhost/ksiegarnia/16-home_default/printed-summer-dress.jpg"
             alt = "Printed Summer Dress"
@@ -413,7 +343,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 
       <div class="product-description">
         
-          <h1 class="h3 product-title" itemprop="name"><a href="http://localhost/ksiegarnia/summer-dresses/6-31-printed-summer-dress.html#/1-rozmiar-s/16-kolor-zolty">Printed Summer Dress</a></h1>
+          <h1 class="h3 product-title" itemprop="name"><a href="http://localhost/ksiegarnia/komiks/6-printed-summer-dress.html">Printed Summer Dress</a></h1>
         
 
         
@@ -441,7 +371,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
                   </ul>
       
 
-      <div class="highlighted-informations hidden-sm-down">
+      <div class="highlighted-informations no-variants hidden-sm-down">
         
           <a class="quick-view" href="#" data-link-action="quickview">
             <i class="material-icons search">&#xE8B6;</i> Szybki podgląd
@@ -449,19 +379,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
         
 
         
-                      <div class="variant-links">
-      <a href="http://localhost/ksiegarnia/summer-dresses/6-40-printed-summer-dress.html#/1-rozmiar-s/8-kolor-bialy"
-       class="color"
-       title="Biały"
-       
-       style="background-color: #ffffff"           ><span class="sr-only">Biały</span></a>
-      <a href="http://localhost/ksiegarnia/summer-dresses/6-31-printed-summer-dress.html#/1-rozmiar-s/16-kolor-zolty"
-       class="color"
-       title="Żółty"
-       
-       style="background-color: #F1C40F"           ><span class="sr-only">Żółty</span></a>
-    <span class="js-count count"></span>
-</div>
                   
       </div>
 
@@ -470,10 +387,10 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 
 
           
-  <article class="product-miniature js-product-miniature" data-id-product="7" data-id-product-attribute="34" itemscope itemtype="http://schema.org/Product">
+  <article class="product-miniature js-product-miniature" data-id-product="7" data-id-product-attribute="0" itemscope itemtype="http://schema.org/Product">
     <div class="thumbnail-container">
       
-        <a href="http://localhost/ksiegarnia/summer-dresses/7-34-printed-chiffon-dress.html#/1-rozmiar-s/16-kolor-zolty" class="thumbnail product-thumbnail">
+        <a href="http://localhost/ksiegarnia/komiks/7-printed-chiffon-dress.html" class="thumbnail product-thumbnail">
           <img
             src = "http://localhost/ksiegarnia/20-home_default/printed-chiffon-dress.jpg"
             alt = "Printed Chiffon Dress"
@@ -484,7 +401,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 
       <div class="product-description">
         
-          <h1 class="h3 product-title" itemprop="name"><a href="http://localhost/ksiegarnia/summer-dresses/7-34-printed-chiffon-dress.html#/1-rozmiar-s/16-kolor-zolty">Printed Chiffon Dress</a></h1>
+          <h1 class="h3 product-title" itemprop="name"><a href="http://localhost/ksiegarnia/komiks/7-printed-chiffon-dress.html">Printed Chiffon Dress</a></h1>
         
 
         
@@ -518,7 +435,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
                   </ul>
       
 
-      <div class="highlighted-informations hidden-sm-down">
+      <div class="highlighted-informations no-variants hidden-sm-down">
         
           <a class="quick-view" href="#" data-link-action="quickview">
             <i class="material-icons search">&#xE8B6;</i> Szybki podgląd
@@ -526,19 +443,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
         
 
         
-                      <div class="variant-links">
-      <a href="http://localhost/ksiegarnia/summer-dresses/7-37-printed-chiffon-dress.html#/1-rozmiar-s/15-kolor-zielony"
-       class="color"
-       title="Zielony"
-       
-       style="background-color: #A0D468"           ><span class="sr-only">Zielony</span></a>
-      <a href="http://localhost/ksiegarnia/summer-dresses/7-34-printed-chiffon-dress.html#/1-rozmiar-s/16-kolor-zolty"
-       class="color"
-       title="Żółty"
-       
-       style="background-color: #F1C40F"           ><span class="sr-only">Żółty</span></a>
-    <span class="js-count count"></span>
-</div>
                   
       </div>
 
